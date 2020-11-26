@@ -1,0 +1,4 @@
+data/gesis-search/*
+__pycache__/
+.idea/
+index/
